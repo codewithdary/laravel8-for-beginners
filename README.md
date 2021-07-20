@@ -7,7 +7,7 @@ This repository is linked to [this youtube video]( https://www.youtube.com/watch
 •	Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) <br>
 
 ## Requirements
-•	PHP 7.3 or higher
+•	PHP 7.3 or higher <br>
 •	Node 12.13.0 or higher
 
 
@@ -48,4 +48,3 @@ php artisan migrate
 
 ## Credits due where credits due…
 Thanks to [Laravel]( https://laravel.com/) for giving me the opportunity to make this tutorial. I would also like to thank the [Tailwind]( https://tailwindcss.com/) developers for giving us an incredible CSS framework which made my life as a content creator, a lot easier.
-![image](https://user-images.githubusercontent.com/63154066/126399386-108818a1-7647-4891-a8d7-464147f88156.png)
