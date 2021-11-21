@@ -94,7 +94,7 @@ class CarsController extends Controller
      */
     public function edit($id)
     {
-        $car = Car::find($id)->first();
+        $car = Car::where('id', $id)->first();
         
         return view('cars.edit')->with('car', $car);
     }
